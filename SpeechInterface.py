@@ -1,6 +1,5 @@
 # some imports 
 import speech_recognition as sr
-import timeit
 
 def record_voice():
 	"""
